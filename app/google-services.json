@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568781523360",
+    "project_id": "milkit-a26bf",
+    "storage_bucket": "milkit-a26bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568781523360:android:7145b44182a68df7b97cc5",
+        "android_client_info": {
+          "package_name": "com.example.milkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHk4Gc4QxC-hCidhEhk989aqtUPdAqO6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
